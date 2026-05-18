@@ -23,8 +23,8 @@ A Python-based student management system that allows users to add, view, search,
 ---
 
 ## ▶️ How to Run
-1. Download or clone the repository
-2. Open terminal in project folder
+1. Download or clone the repository  
+2. Open terminal in project folder  
 3. Run the program using:
 
 ```bash
